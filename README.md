@@ -1,4 +1,4 @@
-<h1 align="center">🔥 Focos de Queimadas em Rondonia</h1>
+![image](https://github.com/Odnerb/Focos-de-Queimadas-em-Rondonia/assets/70730555/5512bf15-51b6-47f0-808e-c2e9f135a7e8)<h1 align="center">🔥 Focos de Queimadas em Rondonia</h1>
 Situado na Região Norte do Brasil, o Estado de Rondônia é um dos estados que completam a Amazônia Legal e assim como os demais, sofre com aumento de queimadas em certos períodos mensais a cada ano que se passa. Este estudo analisou os dados históricos dos focos de queimadas dos municípios em Rondônia e o quantitativo mensal afim de descobrir um padrão.
 
 <h1 align="left">💻 Projeto</h1>
@@ -13,13 +13,9 @@ Situado na Região Norte do Brasil, o Estado de Rondônia é um dos estados que 
 • Quais meses tem como padrão altos índices de focos durante o passar dos anos
 
 # 🛠 Tecnologias
-![image](https://github.com/Odnerb/Focos-de-Queimadas-em-Rondonia/assets/70730555/2c3d0061-6654-4fc5-9deb-cf942444549b)
 
 As seguintes ferramentas foram usadas na construção do projeto:
+![image](https://github.com/Odnerb/Focos-de-Queimadas-em-Rondonia/assets/70730555/0e45bc29-e1ec-4009-a9f8-8e4a4c279a96)
+![image](https://github.com/Odnerb/Focos-de-Queimadas-em-Rondonia/assets/70730555/e74dcd5f-55f9-43c1-a27a-0fb14d9ab869)
 
-- [Expo](https://expo.io/)
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
 

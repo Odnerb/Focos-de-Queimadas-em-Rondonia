@@ -9,7 +9,7 @@ Situado na Região Norte do Brasil, o Estado de Rondônia é um dos estados que 
 
 <h1 align="left">🎯 Objetivos</h1>
 <p align="left">• Identificar os quatro municípios com mais e menos focos de queimadas acumulados de 2018 a 2022</p>
-<p align="left">• Descobrir qual o ano que mais relizou queimadas</p>
+<p align="left">• Descobrir qual o ano que mais realizou queimadas</p>
 <p align="left">• Quais meses tem como padrão altos índices de focos durante o passar dos anos</p>
 <p align="left">• Criar um dashboard em Power BI com as séries históricas</p>
 

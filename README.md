@@ -13,6 +13,7 @@ Situado na Região Norte do Brasil, o Estado de Rondônia é um dos estados que 
 • Quais meses tem como padrão altos índices de focos durante o passar dos anos
 
 # 🛠 Tecnologias
+![image](https://github.com/Odnerb/Focos-de-Queimadas-em-Rondonia/assets/70730555/2c3d0061-6654-4fc5-9deb-cf942444549b)
 
 As seguintes ferramentas foram usadas na construção do projeto:
 

@@ -15,7 +15,7 @@ Situado na Região Norte do Brasil, o Estado de Rondônia é um dos estados que 
 # 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
-![image](https://github.com/Odnerb/Focos-de-Queimadas-em-Rondonia/assets/70730555/0e45bc29-e1ec-4009-a9f8-8e4a4c279a96)
+![image](https://github.com/Odnerb/Focos-de-Queimadas-em-Rondonia/assets/70730555/0a82e87d-5a55-4854-bf30-17cfa4b0c21f)
 ![image](https://github.com/Odnerb/Focos-de-Queimadas-em-Rondonia/assets/70730555/e74dcd5f-55f9-43c1-a27a-0fb14d9ab869)
 
 

@@ -19,8 +19,8 @@ Situado na Região Norte do Brasil, o Estado de Rondônia é um dos estados que 
 <p align="left">• Meses com mais focos: setembro e agosto</p>
 
 <h1 align="left"> Conclusão</h1>
-<p align="left">• Os municípios com mais focos deveriam receber campanhas mais direcionadas ao combate da problemática</p>
-<p align="left">• O Estado incluir matéria de educação ambiental como experimento nas escolas</p>
+<p align="left">• O Estado investir mais em campanhas de conscientização ambiental nos locais onde foram registrados maiores focos de queimadas</p>
+<p align="left">• Inclusão da Educação Ambiental nas escolas </p>
 
 
 <h1 align="left">🛠 Tecnologias</h1>

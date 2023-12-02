@@ -19,10 +19,9 @@ Situado na Região Norte do Brasil, o Estado de Rondônia é um dos estados que 
 <p align="left">• Meses com mais focos: setembro e agosto</p>
 
 <h1 align="left"> Conclusão</h1>
-<p align="left">• Os municípios com mais focos deveriam receber, campanhas mais direcionadas ao combate da problemática</p>
-<p align="left">• O Estado incluir matéria de educação ambiental nas escolas como forma de conscientização nos municípios com mais focos </p>
-<p align="left">• Ano que mais teve focos: 2022</p>
-<p align="left">• Meses com mais focos: setembro e agosto</p>
+<p align="left">• Os municípios com mais focos deveriam receber campanhas mais direcionadas ao combate da problemática</p>
+<p align="left">• O Estado incluir matéria de educação ambiental como experimento nas escolas</p>
+
 
 <h1 align="left">🛠 Tecnologias</h1>
 

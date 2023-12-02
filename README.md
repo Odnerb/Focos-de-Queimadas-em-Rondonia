@@ -1,4 +1,4 @@
-<h1 align="center">🔥 Focos de Queimadas em Rondonia</h1>
+<h1 align="center">🔥 Focos de Queimadas em Rondônia</h1>
 Situado na Região Norte do Brasil, o Estado de Rondônia é um dos estados que completam a Amazônia Legal e assim como os demais, sofre com aumento de queimadas em certos períodos mensais a cada ano que se passa. Este estudo analisou os dados históricos dos focos de queimadas dos municípios em Rondônia e o quantitativo mensal afim de descobrir um padrão.
 
 <h1 align="left">💻 Projeto</h1>
@@ -13,6 +13,10 @@ Situado na Região Norte do Brasil, o Estado de Rondônia é um dos estados que 
 <p align="left">• Quais meses tem como padrão altos índices de focos durante o passar dos anos</p>
 
 <h1 align="left">🔍 Análise</h1>
+<p align="left">• Os quatro municípios com mais queimadas: Porto Velho, Nova Mamoré, Candeias do Jamari e Cujubim</p>
+<p align="left">• Os quatro municípios com menos queimadas: Novo Horizonte, São Felipe do Oeste e Teixerópolis</p>
+<p align="left">• Ano que mais teve focos: 2022</p>
+<p align="left">• Meses com mais focos: setembro e agosto/p>
 
 <h1 align="left">🛠 Tecnologias</h1>
 

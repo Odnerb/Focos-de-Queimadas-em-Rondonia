@@ -16,7 +16,7 @@ Situado na Região Norte do Brasil, o Estado de Rondônia é um dos estados que 
 <p align="left">• Os quatro municípios com mais queimadas: Porto Velho, Nova Mamoré, Candeias do Jamari e Cujubim</p>
 <p align="left">• Os quatro municípios com menos queimadas: Novo Horizonte, São Felipe do Oeste e Teixerópolis</p>
 <p align="left">• Ano que mais teve focos: 2022</p>
-<p align="left">• Meses com mais focos: setembro e agosto/p>
+<p align="left">• Meses com mais focos: setembro e agosto</p>
 
 <h1 align="left">🛠 Tecnologias</h1>
 

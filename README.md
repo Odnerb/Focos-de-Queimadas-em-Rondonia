@@ -3,9 +3,7 @@ Situado na Região Norte do Brasil, o Estado de Rondônia é um dos estados que 
 
 <h1 align="left">💻 Projeto</h1>
 • Idealizador: Brendo Viricio Saraiva
-
 • Origem dos dados : Satélite AQUA (INPE)
-
 • Responsabilidade: Analisar dados de focos de queimadas do ano de 2018 a 2022 utilizando a linguagem de programação Python no ambiente de desenvolvimento Jupyter Notebook, as bibliotecas pandas e plotly foram utilizadas na tecnologia para obtenção da visualização e obtenção os resultados, com estes o último passo foi criar um relatório interativo em Power BI.
 
 • Abordagem: Análise de Dados

@@ -20,7 +20,7 @@ Situado na Região Norte do Brasil, o Estado de Rondônia é um dos estados que 
 
 <h1 align="left"> Conclusão</h1>
 <p align="left">• O Estado investir mais em campanhas de conscientização ambiental nos locais onde foram registrados maiores focos de queimadas</p>
-<p align="left">• Inclusão da Educação Ambiental nas escolas </p>
+<p align="left">• Inclusão da Educação Ambiental nas escolas como forma de experimento com duração de cinco anos</p>
 
 
 <h1 align="left">🛠 Tecnologias</h1>

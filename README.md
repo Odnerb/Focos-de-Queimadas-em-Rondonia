@@ -7,10 +7,11 @@ Situado na Região Norte do Brasil, o Estado de Rondônia é um dos estados que 
 <p align="left">• Responsabilidade: Analisar dados de focos de queimadas do ano de 2018 a 2022 utilizando a linguagem de programação Python no ambiente de desenvolvimento Jupyter Notebook, as bibliotecas pandas e plotly foram utilizadas na tecnologia para obtenção da visualização e obtenção os resultados, com estes o último passo foi criar um relatório interativo em Power BI.</p>
 <p align="left">• Abordagem: Análise de Dados</p>
 
-<h1 align="left">🎯 Objetivo</h1>
+<h1 align="left">🎯 Objetivos</h1>
 <p align="left">• Identificar os quatro municípios com mais e menos focos de queimadas acumulados de 2018 a 2022</p>
 <p align="left">• Descobrir qual o ano que mais relizou queimadas</p>
 <p align="left">• Quais meses tem como padrão altos índices de focos durante o passar dos anos</p>
+<p align="left">• Criar um dashboard em Power BI com as séries históricas</p>
 
 <h1 align="left">🔍 Análise</h1>
 <p align="left">• Os quatro municípios com mais queimadas: Porto Velho, Nova Mamoré, Candeias do Jamari e Cujubim</p>

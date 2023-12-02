@@ -18,9 +18,9 @@ Situado na Região Norte do Brasil, o Estado de Rondônia é um dos estados que 
 <p align="left">• Ano que mais teve focos: 2022</p>
 <p align="left">• Meses com mais focos: setembro e agosto</p>
 
-<h1 align="left"> Conclusão</h1>
+<h1 align="left">💡 Insights</h1>
 <p align="left">• O Estado investir mais em campanhas de conscientização ambiental nos locais onde foram registrados maiores focos de queimadas</p>
-<p align="left">• Inclusão da Educação Ambiental nas escolas como forma de experimento com duração de cinco anos</p>
+<p align="left">• Inclusão da Educação Ambiental como matéria experimental nas escolas de Rondônia</p>
 
 
 <h1 align="left">🛠 Tecnologias</h1>

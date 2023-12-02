@@ -15,7 +15,7 @@ Situado na Região Norte do Brasil, o Estado de Rondônia é um dos estados que 
 • Descobrir qual o ano que mais relizou queimadas
 • Quais meses tem como padrão altos índices de focos durante o passar dos anos
 
-### 🛠 Tecnologias
+## 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
 

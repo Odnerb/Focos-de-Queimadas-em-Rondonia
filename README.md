@@ -1,9 +1,6 @@
 <h1 align="center">🔥 Focos de Queimadas em Rondônia</h1>
 Situado na Região Norte do Brasil, o Estado de Rondônia é um dos estados que completam a Amazônia Legal e assim como os demais, sofre com aumento de queimadas em certos períodos mensais a cada ano que se passa. Este estudo analisou os dados históricos dos focos de queimadas dos municípios em Rondônia e o quantitativo mensal afim de descobrir um padrão e com isso transformar em insights acionáveis.
 
-<h1 align="left">⚠️ Informação</h1>
-<p align="left">Os códigos podem ser executados no google colab, é um ambiente similar ao jupyter notebook. Para analisar os dados, precisará que tenha as bases de dados baixadas no seu computador, no local onde foram baixados os arquivos copie o caminho da pasta e inclua nas variáveis de local para poder visualizar os gráficos. Nos algoritmos estarão contidos maiores explicações.</p>
-
 <h1 align="left">💻 Projeto</h1>
 <p align="left">• Idealizador: Brendo Viricio Saraiva</p>
 <p align="left">• Origem dos dados : Satélite AQUA (INPE)</p>
